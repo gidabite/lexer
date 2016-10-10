@@ -1,0 +1,3 @@
+read x;
+ //if y + 17 == x   
+ then write y else  skip while (3) do x:=6
