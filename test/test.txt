@@ -1,0 +1,1 @@
+read x; if x + 1 == x then write y else skip

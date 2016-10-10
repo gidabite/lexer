@@ -1,0 +1,12 @@
+read x;
+
+
+if y + 17 == x
+    then write y
+   else skip
+(* 
+if (g%88 != y-5)
+then 6>=99||6
+7-tt 
+
+while (3) do x:=6* *)
